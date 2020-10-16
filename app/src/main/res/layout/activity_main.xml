@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.example.expandable_list_adapter_sample.MainViewModel" />
+            type="com.example.expandable_list_adapter_example.MainViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

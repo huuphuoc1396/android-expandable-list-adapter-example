@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.1"
 
     defaultConfig {
-        applicationId "com.example.expandable_list_adapter_sample"
+        applicationId "com.example.expandable_list_adapter_example"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

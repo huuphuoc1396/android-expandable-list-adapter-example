@@ -1,4 +1,4 @@
-package com.example.expandable_list_adapter_sample
+package com.example.expandable_list_adapter_example
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry

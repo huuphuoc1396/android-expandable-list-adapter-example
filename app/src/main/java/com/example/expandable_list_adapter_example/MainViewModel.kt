@@ -1,4 +1,4 @@
-package com.example.expandable_list_adapter_sample
+package com.example.expandable_list_adapter_example
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel

@@ -1,1 +1,1 @@
-# Expandable ListAdapter Sample
+# Expandable list using ListAdapter

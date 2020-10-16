@@ -1,9 +1,9 @@
-package com.example.expandable_list_adapter_sample
+package com.example.expandable_list_adapter_example
 
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.expandable_list_adapter_sample.databinding.ItemSectionBinding
+import com.example.expandable_list_adapter_example.databinding.ItemSectionBinding
 
 class SectionViewHolder(
     private val binding: ItemSectionBinding,

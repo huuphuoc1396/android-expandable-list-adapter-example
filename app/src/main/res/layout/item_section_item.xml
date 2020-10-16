@@ -6,7 +6,7 @@
 
         <variable
             name="sectionItem"
-            type="com.example.expandable_list_adapter_sample.Section.Item" />
+            type="com.example.expandable_list_adapter_example.Section.Item" />
     </data>
 
     <TextView

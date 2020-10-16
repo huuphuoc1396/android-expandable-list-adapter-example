@@ -1,4 +1,4 @@
-package com.example.expandable_list_adapter_sample
+package com.example.expandable_list_adapter_example
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.expandable_list_adapter_sample.databinding.ItemSectionBinding
-import com.example.expandable_list_adapter_sample.databinding.ItemSectionItemBinding
+import com.example.expandable_list_adapter_example.databinding.ItemSectionBinding
+import com.example.expandable_list_adapter_example.databinding.ItemSectionItemBinding
 
 class MainListAdapter(
     private val onSectionClickListener: (Section) -> Unit
@@ -49,8 +49,8 @@ class MainListAdapter(
     }
 
     object ViewType {
-        const val SECTION: Int = R.layout.item_section
-        const val SECTION_ITEM: Int = R.layout.item_section_item
+        const val SECTION = 101
+        const val SECTION_ITEM = 102
     }
 
     companion object {

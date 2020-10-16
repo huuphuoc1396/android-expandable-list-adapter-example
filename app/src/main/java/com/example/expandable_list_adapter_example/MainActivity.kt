@@ -1,4 +1,4 @@
-package com.example.expandable_list_adapter_sample
+package com.example.expandable_list_adapter_example
 
 import android.os.Bundle
 import androidx.activity.viewModels
@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.BindingAdapter
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.example.expandable_list_adapter_sample.databinding.ActivityMainBinding
+import com.example.expandable_list_adapter_example.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
