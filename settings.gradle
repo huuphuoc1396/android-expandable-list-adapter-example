@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "expandable_list_adapter_sample"
+rootProject.name = "expandable-list-adapter-example"
