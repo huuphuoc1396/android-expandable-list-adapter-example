@@ -11,7 +11,7 @@ class SectionViewHolder(
 ) : RecyclerView.ViewHolder(binding.root) {
 
     init {
-        binding.root.setOnClickListener {
+        binding.root.setOnSingleClickListener {
             binding.section?.let {
                 onSectionClickListener(it)
             }
