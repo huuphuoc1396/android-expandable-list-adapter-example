@@ -31,7 +31,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 app:layoutManager="LinearLayoutManager"
-                app:sectionList="@{viewModel.sectionListLiveData}" />
+                app:sectionList="@{viewModel.sectionListLiveData}"
+                tools:listitem="@layout/item_section" />
         </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
